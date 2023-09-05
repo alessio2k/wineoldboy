@@ -288,7 +288,7 @@ header img{
     top: -400;
     position: relative;
     padding: 0 10%;
-    
+
 }
 .blog_heading{
     display: flex;
@@ -312,7 +312,7 @@ header img{
     position: relative;
 }
 .blog_box{
-    width: 350px;
+    width: 340px;
     background-color: var(--secon-bg-color);
     border-radius: 10px;
     margin: 30px 20px;
