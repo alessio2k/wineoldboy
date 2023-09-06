@@ -198,7 +198,10 @@ section{
     overflow: hidden;
     position: relative;
     z-index: 1;
-    background: rgba(0, 0, 0, 0) url(./img/background.gif) no-repeat;
+    background: rgba(0, 0, 0, 0) url(./img/background.gif) no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size:cover;
+    -o-background-size:cover;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
